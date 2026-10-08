@@ -1,0 +1,6 @@
+{
+  "name": "FlutterQuest",
+  "description": "O'yin orqali Flutter va Dart dasturlashni 0 dan mukammal o'rganish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
